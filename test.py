@@ -4,3 +4,4 @@ for i in range(1,N+1):
     sum = sum * i
 print(sum)
 print("hi")
+print("alert")
